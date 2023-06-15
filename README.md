@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshali Modak</h1>
 <h3 align="center">A passionate backend developer from India</h3>
+<img align="right" alt="coding" width="400"=src="![Uploading image.png…]()">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshali-modak&label=Profile%20views&color=0e75b6&style=flat" alt="akshali-modak" /> </p>
 
